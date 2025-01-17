@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "@playwright-test/testing",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5",
+    "typescript": "^5.7.3"
+  }
+}

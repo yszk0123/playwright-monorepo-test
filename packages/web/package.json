@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "@playwright-test/web",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo nothing"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
